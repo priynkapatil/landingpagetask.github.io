@@ -1,0 +1,659 @@
+#section03 {
+    display: block;
+    margin-top: 4%;
+}
+.a1{
+ top: 7915px;
+margin-left: 120px;
+width: 575px;
+height: 90px;
+background: transent url('/img/Rectangle\ 1615.png') 0% 0% no-repeat padding-box ;
+border-radius: 8px;
+opacity: 1;
+margin-top: 2%;
+
+
+}
+.a1 url{
+    
+}
+.a2{
+    top: 7915px;
+left: 745px;
+width: 575px;
+height: 90px;
+background: transparent url('/img/Rectangle\ 1615.png') 0% 0% no-repeat padding-box;
+border-radius: 8px;
+opacity: 1;
+float: right;
+margin-top: -6%;
+margin-right: 12%;
+}
+.a3{
+    top: 8061px;
+margin-left: 120px;
+width: 575px;
+height: 100px;
+background: transparent url('/img/Rectangle\ 1615.png') 0% 0% no-repeat padding-box;
+border-radius: 8px;
+opacity: 1;
+float: left;
+margin-top: 2%;
+}
+.a4{
+    top: 8061px;
+left: 745px;
+width: 575px;
+height: 100px;
+background: transparent url('/img/Group\ 13104.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+float:right;
+margin-top: 2%;
+margin-right: 12%;
+}
+.a5{
+    top: 8207px;
+margin-left: 120px;
+width: 575px;
+height: 90px;
+background: transparent url('/img/Rectangle\ 1615.png') 0% 0% no-repeat padding-box;
+border-radius: 8px;
+opacity: 1;
+margin-top: 11%;
+}
+.a6{
+    top: 8207px;
+left: 745px;
+width: 575px;
+height: 90px;
+background: transparent url('/img/Rectangle\ 1615.png') 0% 0% no-repeat padding-box;
+border-radius: 8px;
+opacity: 1;
+float:right;
+margin-right: 12%;
+margin-top: -6%;
+}
+.a7{
+    top: 8353px;
+margin-left: 120px;
+width: 575px;
+height: 100px;
+background: transparent url('/img/Group\ 13103.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+margin-top: 2.5%;
+
+}
+.a8{
+    top: 8353px;
+    left: 745px;
+    width: 575px;
+    height: 100px;
+    background: transparent url('/img/Group\ 13105.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    float: right;
+    margin-top: -6.5%;
+    margin-right: 12%;
+}
+
+.lg1{
+    top: 7946px;
+left: 145px;
+width: 50px;
+height: 50px;
+background: transparent url('/img/web-development\ \(10\).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.lg2{
+    top: 7945px;
+left: 770px;
+width: 50px;
+height: 50px;
+background: transparent url('/img/knowledge\ \(1\).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.lg3{
+    top: 8091px;
+left: 145px;
+width: 48px;
+height: 50px;
+background: transparent url('/img/jsx\ \(1\).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.lg5{
+    top: 8237px;
+left: 146px;
+width: 50px;
+height: 50px;
+background: transparent url('/img/js\ \(1\).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.lg6{
+    top: 8237px;
+left: 770px;
+width: 50px;
+height: 50px;
+background: transparent url('/img/playlist.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.a1 p{
+    top: 7935px;
+margin-left: 70px;
+width: 442px;
+height: 71px;
+text-align: left;
+font: normal normal normal 16px/26px Montserrat;
+letter-spacing: 0.32px;
+color: #101819;
+opacity: 1;
+margin-top: -9%;
+}
+.a2 p{
+    top: 7935px;
+margin-left: 75px;
+width: 409px;
+height: 71px;
+text-align: left;
+font: normal normal normal 16px/26px Montserrat;
+letter-spacing: 0.32px;
+color: #101819;
+opacity: 1;
+margin-top: -9%;
+
+}
+.a3 p{
+    top: 8081px;
+margin-left: 70px;
+width: 443px;
+height: 71px;
+text-align: left;
+font: normal normal normal 16px/26px Montserrat;
+letter-spacing: 0.32px;
+color: #101819;
+opacity: 1;
+margin-top: -9%;
+}
+.a5 p{
+    top: 8227px;
+margin-left: 76px;
+width: 442px;
+height: 71px;
+text-align: left;
+font: normal normal normal 16px/26px Montserrat;
+letter-spacing: 0.32px;
+color: #101819;
+opacity: 1;
+margin-top:-9% ;
+
+}
+
+.a6 p{
+    top: 8227px;
+margin-left: 80px;
+width: 432px;
+height: 71px;
+text-align: left;
+font: normal normal normal 16px/26px Montserrat;
+letter-spacing: 0.32px;
+color: #101819;
+opacity: 1;
+margin-top: -9%;
+
+}
+
+.section04{
+    top: 7146px;
+    margin-left: 50px;
+    width: 1339px;
+    height: 400px;
+    background: transparent url('/img/Group\ 13112.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-top: 160.3px;
+    }
+    .b1{
+        margin-left: 8%;
+        margin-top: 9%;
+        padding-top:100px;
+    }
+
+    .logo01{
+        top: 8692px;
+        left: 196px;
+        width: 64px;
+        height: 64px;
+        background: transparent url('/img/Group\ 0012247.png') 0% 0% no-repeat padding-box;
+        opacity: 1;
+        padding-top: 6%;
+       
+    }
+    .b1 h2{
+        top: 8767px;
+        margin-left: -12px;
+        width: 120px;
+        height: 89px;
+        text-align: left;
+        font: normal normal 900 70px/75px Gilroy ☞;
+        letter-spacing: 3.5px;
+        color: #FFFFFF;
+        opacity: 1;
+    }
+
+    .b1 p{
+        /* Layout Properties */
+            top: 8871px;
+           margin-left: -49px;
+            width: 216px;
+            height: 24px;
+            /* UI Properties */
+            text-align: left;
+            font: normal normal 600 20px/34px Montserrat;
+            letter-spacing: 0.6px;
+            color: #FFFFFF;
+            opacity: 1;
+    }
+    .b2{
+        margin-left: 25%;
+        margin-top: -14.7%;
+    }
+
+    .logo02{
+        /* Layout Properties */
+        top: 8692px;
+        margin-left: 59px;
+        width: 64px;
+        height: 64px;
+        /* UI Properties */
+        background: transparent url('/img/Group\ 12248.png') 0% 0% no-repeat padding-box;
+        opacity: 1;
+        padding-top: 8%;
+
+    }
+
+    .b2 h2{
+        top: 8767px;
+        margin-left: 9px;
+        width: 232px;
+        height: 89px;
+        text-align: left;
+        font: normal normal 900 70px/75px Gilroy ☞;
+        letter-spacing: 3.5px;
+        color: #FFFFFF;
+        opacity: 1;
+
+    }
+    .b2 p{
+        top: 8871px;
+        left: 455px;
+        width: 248px;
+        height: 54px;
+        text-align: center;
+        font: normal normal 600 20px/30px Montserrat;
+        letter-spacing: 0.6px;
+        color: #FFFFFF;
+        opacity: 1;
+
+    }
+    .b3{
+        margin-left: 750px;
+        margin-top: -16.5%;
+    }
+    .logo03{
+        top: 8692px;
+        left: 872px;
+        width: 64px;
+        height: 64px;
+        background: transparent url('/img/Group\ 12249.png') 0% 0% no-repeat padding-box;
+        opacity: 1;
+
+    }
+
+    .b3 h2{
+        top: 8767px;
+        margin-left: -15px;
+        width: 232px;
+        height: 89px;
+        text-align: left;
+        font: normal normal 900 70px/75px Gilroy ☞;
+        letter-spacing: 3.5px;
+        color: #FFFFFF;
+        opacity: 1;
+        padding-top: 2.3%;
+
+    }
+    .b3 p{top: 8871px;
+        margin-left: -38px;
+        width: 166px;
+        height: 24px;
+        text-align: center;
+        font: normal normal 600 20px/30px Montserrat;
+        letter-spacing: 0.6px;
+        color: #FFFFFF;
+        opacity: 1;
+        
+    }
+    .b4{
+        float:right;
+        margin-right: 10%;
+        margin-top: -13.6%;
+    }
+    .logo04{
+        top: 8692px;
+        left: 1181px;
+        width: 64px;
+        height: 64px;
+        background: transparent url('/img/Group\ 12250.png') 0% 0% no-repeat padding-box;
+        opacity: 1;
+
+    }
+
+    .b4 h2{
+        top: 8767px;
+        margin-left: -32px;
+        width: 162px;
+        height: 89px;
+        text-align: left;
+        font: normal normal 900 70px/75px Gilroy ☞;
+        letter-spacing: 3.5px;
+        color: #FFFFFF;
+        opacity: 1;
+        padding-top: 20px;
+
+    }
+
+    .b4 p{
+        top: 8871px;
+        margin-left: -66px;
+        width: 214px;
+        height: 24px;
+        text-align: center;
+        font: normal normal 600 20px/30px Montserrat;
+        letter-spacing: 0.6px;
+        color: #FFFFFF;
+        opacity: 1;
+        
+    }
+
+    .section05{
+          /* Layout Properties */
+top: 5137px;
+left: 0px;
+width: 100%;
+height: 3671px;
+/* UI Properties */
+ background: #fff 50% 100% no-repeat padding-box; 
+opacity: 1;
+    }
+
+    .set01{
+        top: 9153px;
+       margin-left: 254px;
+       max-width: 932px;
+        height: 107px;
+        text-align: center;
+        font: normal normal bold 42px/55px Gilroy ☞;
+        letter-spacing: 0.84px;
+        color: #101819;
+        opacity: 1;
+        padding-top: 160px;
+    }
+
+    .set1-1{
+        top: 9316px;
+        left: 120px;
+        width: 380px;
+        height: 400px;
+        background: transparent url('/img/Rectangle\ 1616.png') 0% 0% no-repeat padding-box;
+        opacity: 1;
+       margin-left: 10%;
+       margin-top: 10%;
+    }
+    .set1-1 .t1{
+        top: 9338px;
+        left: 141px;
+        width: 78px;
+        height: 78px;
+        background: transparent url('/img/atom-icon-png.png') 0% 0% no-repeat padding-box;
+        opacity: 1;
+        padding-top: 9%;
+        margin-left: 2%;
+        
+        
+        }
+        .set1-1 h3{
+            top: 9442px;
+            margin-left: 16px;
+            width: 70px;
+            height: 29px;
+            text-align: center;
+            font: normal normal bold 24px/55px Montserrat;
+            letter-spacing: 0.48px;
+            color: #101819;
+            opacity: 1;
+            padding-top: 3%;
+            
+            }
+            .set1-1 p{
+            top: 9491px;
+            margin-left: 15px;
+            width: 319px;
+            height: 148px;
+            text-align: left;
+            font: normal normal normal 17px/32px Montserrat;
+            letter-spacing: 0.34px;
+            color: #101819;
+            opacity: 1;
+            padding-top: 8%;
+            }
+
+            .set1-2{
+                /* Layout Properties */
+                top: 9316px;
+                left: 530px;
+                width: 380px;
+                height: 400px;
+                /* UI Properties */
+                background: transparent url('/img/Rectangle\ 1616.png') 0% 0% no-repeat padding-box;
+                opacity: 1;
+                margin-top: -69%;
+                float: right;
+                margin-top: -26.3%;
+                margin-right: 37%;
+            }
+
+            .set1-2 .t2{
+                top: 9344px;
+                left: 555px;
+                width: 70px;
+                height: 66px;
+                background: transparent url('/img/Mask\ Group\ 161.png') 0% 0% no-repeat padding-box;
+                opacity: 1;
+                margin-left: 6%;
+               
+                
+                }
+                .set1-2 h3{
+                    top: 9442px;
+                    left: 555px;
+                    width: 82px;
+                    height: 29px;
+                    text-align: center;
+                    font: normal normal bold 24px/55px Montserrat;
+                    letter-spacing: 0.48px;
+                    color: #101819;
+                    opacity: 1;
+                    padding-top: 8%;
+                    padding-left: 7%;
+                    
+                    }
+                    .set1-2 p{
+                    top: 9492px;
+                    margin-left: 18px;
+                    width: 324px;
+                    height: 148px;
+                    text-align: left;
+                    font: normal normal normal 17px/32px Montserrat;
+                    letter-spacing: 0.34px;
+                    color: #101819;
+                    opacity: 1;
+                    padding-top: 11%;
+                    
+                    }
+
+                    .set1-3{
+                        top: 9316px;
+                        margin-left: 940px;
+                        width: 380px;
+                        height: 400px;
+                        background: transparent url('/img/Rectangle\ 1616.png') 0% 0% no-repeat padding-box;
+                        opacity: 1;
+                        float: right;
+                        margin-top: -26.3%;
+                        margin-right: 10%;
+                        
+                    }
+                    .set1-3 .t3{
+                        top: 9343px;
+                        left: 965px;
+                        width: 80px;
+                        height: 70px;
+                        background: transparent url('/img/eslint-1-logo-png-transparent.png') 0% 0% no-repeat padding-box;
+                        opacity: 1;
+                        margin-left: 6%;
+                        
+                        }
+
+                        .set1-3 h3{
+                            top: 9442px;
+                            left: 965px;
+                            width: 82px;
+                            height: 29px;
+                            text-align: center;
+                            font: normal normal bold 24px/55px Montserrat;
+                            letter-spacing: 0.48px;
+                            color: #101819;
+                            opacity: 1;
+                            padding-top: 5%;
+                            margin-left: 5%;
+                           
+                            
+                            }
+                            .set1-3 p{
+                            top: 9491px;
+                            left: 965px;
+                            width: 333px;
+                            height: 148px;
+                            text-align: left;
+                            font: normal normal normal 17px/32px Montserrat;
+                            letter-spacing: 0.34px;
+                            color: #101819;
+                            opacity: 1;
+                            padding-top: 9%;
+                            margin-left: 5%;
+                            
+                            }
+
+                            .set1-4{
+                                top: 9746px;
+                                left: 325px;
+                                width: 380px;
+                                height: 400px;
+                                background: transparent url('/img/Rectangle\ 1616.png') 0% 0% no-repeat padding-box;
+                                opacity: 1;
+                                float: left;
+                                margin-left: 25%;
+                                margin-top: 2%;
+                            }
+                            .set1-4 .t4{
+                                top: 9772px;
+                                left: 346px;
+                                width: 153px;
+                                height: 72px;
+                                background: transparent url('/img/React-logo.png') 0% 0% no-repeat padding-box;
+                                opacity: 1;
+                                
+                                }
+
+                            
+                            .set1-4 h3{
+                                top: 9877px;
+                                left: 350px;
+                                width: 224px;
+                                height: 29px;
+                                text-align: center;
+                                font: normal normal bold 24px/55px Montserrat;
+                                letter-spacing: 0.48px;
+                                color: #101819;
+                                opacity: 1;
+                                padding-top: 2%;
+                                
+                                }
+                                .set1-4 p{
+                                top: 9926px;
+                                left: 350px;
+                                width: 333px;
+                                height: 116px;
+                                text-align: left;
+                                font: normal normal normal 17px/32px Montserrat;
+                                letter-spacing: 0.34px;
+                                color: #101819;
+                                opacity: 1;
+                                padding-top: 6%;
+                                padding-left: 4%;
+                                
+                                }
+
+                                .set1-5{
+                                    top: 9746px;
+                                    left: 735px;
+                                    width: 380px;
+                                    height: 400px;
+                                    background: transparent url('/img/Rectangle\ 1616.png') 0% 0% no-repeat padding-box;
+                                    opacity: 1;
+                                    float: right;
+                                    margin-right: 22%;
+                                    margin-top: 2%;
+                                    
+                                }
+
+                                .set1-5 .t5{
+                                    /* Layout Properties */
+                                    top: 9777px;
+                                    left: 760px;
+                                    width: 128px;
+                                    height: 59px;
+                                    /* UI Properties */
+                                    background: transparent url('/img/codepush-logo-png-transparent.png') 0% 0% no-repeat padding-box;
+                                    opacity: 1;
+                                    margin-left: 6%;
+                                    
+                                    }
+    
+
+                                .set1-5 h3{
+
+                                    top: 9877px;
+                                    left: 760px;
+                                    width: 260px;
+                                    height: 29px;
+                                    text-align: center;
+                                    font: normal normal bold 24px/55px Montserrat;
+                                    letter-spacing: 0.48px;
+                                    color: #101819;
+                                    opacity: 1;
+                                    padding-top: 2%;
+                                    
+                                    }
+                                    .set1-5 p{
+                                    top: 9926px;
+                                    left: 760px;
+                                    width: 342px;
+                                    height: 116px;
+                                    text-align: left;
+                                    font: normal normal normal 17px/32px Montserrat;
+                                    letter-spacing: 0.34px;
+                                    color: #101819;
+                                    opacity: 1;
+                                    padding-top: 6%;
+                                    padding-left: 6%;
+                                    }
+                            
